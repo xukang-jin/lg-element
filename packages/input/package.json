@@ -1,5 +1,5 @@
 {
-  "name": "lg-input",
+  "name": "lg-input-jin",
   "version": "0.0.2",
   "description": "",
   "main": "index.js",
@@ -9,5 +9,5 @@
   "keywords": [],
   "author": "",
   "license": "MIT",
-  "gitHead": "49d8d95c9c0f595a8b9cb4c45943395361889ecc"
+  "gitHead": "68ca664015402e4629697c511175fba5992aa987"
 }
