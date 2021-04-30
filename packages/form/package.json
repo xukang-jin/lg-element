@@ -1,5 +1,5 @@
 {
-  "name": "lg-form",
+  "name": "lg-form-jin",
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
@@ -8,5 +8,6 @@
   },
   "keywords": [],
   "author": "",
-  "license": "MIT"
+  "license": "MIT",
+  "gitHead": "49d8d95c9c0f595a8b9cb4c45943395361889ecc"
 }
