@@ -2,12 +2,14 @@
   "name": "lg-button-jin",
   "version": "0.0.5",
   "description": "",
-  "main": "index.js",
+  "main": "dist/cjs/index.js",
+  "module": "dist/es/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "del": "rimraf dist"
   },
   "keywords": [],
   "author": "",
   "license": "MIT",
-  "gitHead": "aaa7f0c7209262d69f6369a30a09ead8611f60c0"
+  "gitHead": "fa85885c7731baf72a55325e983194b5960ebfc8"
 }
